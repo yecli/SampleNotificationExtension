@@ -4,7 +4,7 @@
     <version>3.0.0</version>
     <platformVersion>3.0.0</platformVersion>
     <dependencies>
-        <dependency id="VirtoCommerce.Notifications" version="3.0.0" />
+        <dependency id="VirtoCommerce.Notifications" version="3.7.0" />
     </dependencies>
     <title>NotificationsSample module</title>
     <description>description</description>
