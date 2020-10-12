@@ -1,8 +1,16 @@
 {
-    "notificationTypes": {
-        "PostTwitterNotification": {
-            "displayName": "Post Twitter notification",
-            "description": "This notification sends by a tweet to the Twitter"
-        }
+  "notificationTypes": {
+    "PostTwitterNotification": {
+      "displayName": "Post Twitter notification",
+      "description": "This notification sends by a tweet to the Twitter"
+    },
+    "CustomerInvitationNotification": {
+      "displayName": "Customer invitation notification",
+      "description": "This notification is sent as an email registration invitation to the client"
+    },
+    "ExtendedSampleEmailNotification": {
+      "displayName": "Review approved notification",
+      "description": "This notification is sent by an email when review is approved by the moderator"
     }
+  }
 }
